@@ -9,5 +9,6 @@ export default defineConfig({
     alias:{
       '@': path.resolve(__dirname,"./src")
     }
-  }
+  },
+  base: 'https://bayusec.github.io/design_product_preview_card/'
 })
