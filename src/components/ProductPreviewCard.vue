@@ -48,4 +48,7 @@
 .cart-button {
   background: hsl(158, 36%, 37%)
 }
+.cart-button:hover{
+  background: #1a4031;
+}
 </style>
