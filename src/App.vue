@@ -3,7 +3,7 @@ import ProductPreviewCardVue from '@/components/ProductPreviewCard.vue';
 </script>
 
 <template>
-  <div class="flex h-screen items-start sm:items-center justify-center">
+  <div role="main" class="flex h-screen items-start sm:items-center justify-center">
     <ProductPreviewCardVue />
   </div>
 </template>

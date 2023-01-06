@@ -2,10 +2,10 @@
   <div class="flex flex-col mt-9 w-[335px] h-full rounded-2xl
               sm:flex-row sm:h-[459.6px] sm:w-[580px]">
     <!-- MOBILE-->
-    <img class="sm:hidden w-full h-[279px] rounded-t-xl" src="@/assets/image-product-mobile.jpg"/>
+    <img class="sm:hidden w-full h-[279px] rounded-t-xl" src="@/assets/image-product-mobile.jpg" alt="Large picture of bottle of Gabrielle Chanel's perfume."/>
 
     <!-- DESKTOP   -->
-    <img class="hidden sm:block w-1/2  h-full rounded-l-xl" src="@/assets/image-product-desktop.jpg"/>
+    <img class="hidden sm:block w-1/2  h-full rounded-l-xl" src="@/assets/image-product-desktop.jpg" alt="Small picture of bottle of Gabrielle Chanel's perfume."/>
 
 
     <div class="bg-white h-[360px] flex flex-col justify-between rounded-b-lg py-5
