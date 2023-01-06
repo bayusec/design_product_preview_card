@@ -1,6 +1,5 @@
 <script setup>
 import ProductPreviewCardVue from '@/components/ProductPreviewCard.vue';
-console.log(import.meta.env.MODE)
 </script>
 
 <template>

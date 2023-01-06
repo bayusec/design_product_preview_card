@@ -1,8 +1,39 @@
-# Vue 3 + Vite
+# Frontend Mentor - Product preview card component solution
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-## Recommended IDE Setup
+## Table of contents
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-"# design_product_preview_card" 
+- [Overview](#overview)
+    - [The challenge](#the-challenge)
+    - [Links](#links)
+    - [Built with](#built-with)
+- [Author](#author)
+
+## Overview
+
+This is my first attempt to solve a challenge from the frontend mentor website.
+
+### The challenge
+
+Users should be able to:
+
+- View the optimal layout depending on their device's screen size
+- See hover and focus states for interactive elements
+
+### Links
+
+- Solution URL: [https://github.com/bayusec/design_product_preview_card](https://github.com/bayusec/design_product_preview_card)
+- Live Site URL: [https://bayusec.github.io/design_product_preview_card/](https://bayusec.github.io/design_product_preview_card/)
+
+### Built with
+
+- [Vue.js 3](https://vuejs.org/) - JS Framework 
+- [TailwindCSS](https://tailwindcss.com/) - CSS framework
+- Flexbox
+- [Vite 4](https://vitejs.dev/) - Build Tool
+
+## Author
+
+- Website - [JPZ](https://github.com/bayusec)
+- Frontend Mentor - [@bayusec](https://www.frontendmentor.io/profile/bayusec)

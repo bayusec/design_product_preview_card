@@ -2,7 +2,7 @@ import {defineConfig} from 'vite'
 import vue from '@vitejs/plugin-vue'
 import path from 'path'
 
-// https://vitejs.dev/config/
+//https://vitejs.dev/config/#conditional-config  #para saber si estamos en dev o prod
 export default defineConfig(({command, mode}) => {
     let out = {
         plugins: [vue()],
@@ -17,6 +17,5 @@ export default defineConfig(({command, mode}) => {
     } else out.base = ''
 
     return out
-
 })
 
