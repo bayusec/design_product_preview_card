@@ -1,6 +1,6 @@
 <template>
   <div class="flex flex-col mt-9 w-[335px] h-full rounded-2xl
-              sm:flex-row sm:h-[459.6px] sm:w-[580px]">
+              sm:flex-row sm:h-[459.6px] sm:w-[580px] text-gray-500">
     <!-- MOBILE-->
     <img class="sm:hidden w-full h-[279px] rounded-t-xl" src="@/assets/image-product-mobile.jpg" alt="Large picture of bottle of Gabrielle Chanel's perfume."/>
 
@@ -8,18 +8,18 @@
     <img class="hidden sm:block w-1/2  h-full rounded-l-xl" src="@/assets/image-product-desktop.jpg" alt="Small picture of bottle of Gabrielle Chanel's perfume."/>
 
 
-    <div class="bg-white h-[360px] flex flex-col justify-between rounded-b-lg py-5
+    <div class="bg-white h-[360px] flex flex-col justify-between rounded-b-lg py-5 px-3
                 sm:rounded-none sm:rounded-r-xl sm:h-full sm:w-1/2 sm:py-10">
       <div class="ml-5 tracking-[.30em] text-gray-500 font-monseBold text-xs">PERFUME</div>
 
-      <div class="text-3xl mx-5 font-frauncesBold">Gabrielle Essence Eau De Parfum</div>
-      <div class="text-sm font-monseMedium mx-5">
+      <div class="text-3xl mx-5  font-frauncesBold text-black ">Gabrielle Essence Eau De Parfum</div>
+      <div class="text-[14px] font-monseMedium mx-5">
         A floral, solar and voluptous interpretation composed by Olivier Polge, Perfumer-Creator for the house of
         CHANEL.
       </div>
       <div class="flex flex-row gap-5 items-center mx-5">
-        <div class="text-3xl price">$149.99</div>
-        <div class="text-xs line-through">$169.99</div>
+        <div class="text-3xl price font-frauncesBold">$149.99</div>
+        <div class="text-xs line-through font-monseMedium ">$169.99</div>
       </div>
       <div class="text-center px-5">
         <button class="cart-button w-full rounded-md py-3">
